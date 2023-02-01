@@ -1,5 +1,5 @@
 # height_in is available as a regular list
-# https://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_MLB_HeightsWeights
+# source: "https://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_MLB_HeightsWeights"
 
 # Import numpy
 import numpy as np
